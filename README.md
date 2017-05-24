@@ -8,6 +8,7 @@ Pick from a database of non monetary stakes.
 
 Possible Features
 -----------------
+
  - User able to filter possible outcomes
  - Events that have a duration could have a variable time frame
  - Bonuses for the winner
