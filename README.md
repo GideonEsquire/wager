@@ -16,6 +16,19 @@ Possible Features
  - Categories
     1. Naughty
     2. Housework
-    3. Control What's on tv
-    4. Embarrassing FB profile pic
+        *Kitchen
+        *Cat box
+        *Vacuum
+        *Wipe tables
+        *Make Bed
     5. Workout
+        *Push ups
+        *Wall sit
+        *Plank
+        *Situps
+    6. To the winner goes the spoils
+        *Control What's on tv
+    7. Humiliate the loser
+        *Embarrassing FB profile pic
+        *Can't wear pants
+
